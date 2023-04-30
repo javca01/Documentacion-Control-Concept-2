@@ -189,6 +189,8 @@ Este bloque de instrucciones permite llevar la silla a la posición inicial, sin
 
 ## Enlace de descarga de la aplicación:
 
+<p align="center"><img src="https://i.postimg.cc/PqKkQgtm/concept-2.png"></p>
+
 El ejecutable de la aplicación puede ser descargado desde el enlace que se muestra abajo:
 
 Clic [aquí](https://bit.ly/44jrLcn) para descargar la aplicación Control Concept 2.
