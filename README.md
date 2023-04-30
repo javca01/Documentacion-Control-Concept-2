@@ -187,6 +187,12 @@ Este bloque de instrucciones permite llevar la silla a la posición inicial, sin
 
 <p align="center"><img src="https://i.postimg.cc/fy40Q5Sd/45.png"></p>
 
+## Enlace de descarga de la aplicación:
+
+El ejecutable de la aplicación puede ser descargado desde el enlace que se muestra abajo:
+
+Clic [aquí](https://bit.ly/44jrLcn) para descargar la aplicación Control Concept 2.
+
 ## Bibliografía:
 * Cardellino, F. (2021). La guía definitiva del paquete NumPy para computación científica en Python. Recuperado de: https://www.freecodecamp.org/espanol/news/la-guia-definitiva-del-paquete-numpy-para-computacion-cientifica-en-python/
 
