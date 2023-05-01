@@ -91,6 +91,8 @@ Una vez que se han colocado en las respectivas casillas, las credenciales correc
 
 La interfaz principal cuenta con una lista desplegable en la que se muestran todos los puertos COM disponibles, en el caso de que salga más de uno se recomienda ir al **Administrador de dispositivos** en Windows o el que haga las veces en otros sistemas operativos para observar el puerto asociado a la ESP32, una vez se confirme dicha información, se debe regresar a la interfaz principal y seleccionar el puerto correcto, luego se debe oprimir el botón **Seleccionar Puerto**, una vez hecho esto la interfaz ya estará plenamente disponible para su uso, es decir, estará en estado operativo. Al estar la interfaz principal operativa, se debe oprimir en primer lugar el botón **Calibrar**, esto hará que la silla de la máquina se desplace de extremo a extremo a velocidad constante, midiendo la distancia entre los sensores ReedSwitch que sirven de limitadores del recorrido.
 
+<p align="center"><img src="https://i.postimg.cc/QCB03Hnm/interfaz-3.png"></p>
+
 Posteriormente se podrá oprimir el botón **Iniciar**, no antes, con lo cual la máquina desarrollará el perfil de movimiento impuesto mostrando los datos de posición, velocidad y aceleración de la silla en las gráficas. Finalmente, el botón **Detener**, podrá oprimirse siempre que la máquina se encuentre en movimiento, es decir, ya sea que esté ejecutando la rutina de calibración o se encuentre desarrollando el perfil de movimiento en condiciones de trabajo normal, cabe destacar que la rutina de detención contempla que la silla se detenga y posteriormente se desplace a la posición de arranque, inicial o de home para prepararse para una siguiente activación.
 
 ## Script para la ESP32:
