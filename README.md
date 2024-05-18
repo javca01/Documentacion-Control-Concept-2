@@ -197,6 +197,8 @@ El ejecutable de la aplicación puede ser descargado desde el enlace que se mues
 
 Clic [aquí](https://bit.ly/44jrLcn) para descargar la aplicación Control Concept 2.
 
+También puedes acceder a la aplicación a través de este otro [enlace](https://bit.ly/3ymeiF3).
+
 ## Bibliografía:
 * Cardellino, F. (2021). La guía definitiva del paquete NumPy para computación científica en Python. Recuperado de: https://www.freecodecamp.org/espanol/news/la-guia-definitiva-del-paquete-numpy-para-computacion-cientifica-en-python/
 
